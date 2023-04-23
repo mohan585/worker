@@ -3,10 +3,10 @@
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
-    "file",
-    "sharing"
+    "MTk",
+    "Files"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/mohan585/worker",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
