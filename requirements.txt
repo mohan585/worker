@@ -1,6 +1,6 @@
 pyrogram
 TgCrypto
-pyromod1.5
+pyromod
 pymongo
 dnspython
 aiohttp
